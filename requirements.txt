@@ -1,0 +1,5 @@
+langchain
+langchain-google-genai
+duckduckgo-search
+langchain-community
+streamlit
